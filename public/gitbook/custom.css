@@ -1,0 +1,14 @@
+.book-summary .title {
+    padding-left: 13px;
+}
+.book-summary .title h1 {
+    font-size: 3em;
+}
+.book-summary .title h2 {
+    font-size: 1.75em;
+}
+.book-summary .summary li {
+    color: #364149;
+    font-weight: normal;
+    font-size: 14px;
+}

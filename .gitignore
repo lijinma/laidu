@@ -1,0 +1,10 @@
+ba-shi-jian-dang-zuo-peng-you
+node_modules
+/public/storage
+/storage/*.key
+vendor
+.idea
+Homestead.json
+Homestead.yaml
+.env
+public/books
